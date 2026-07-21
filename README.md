@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
----
+
 
 ## 🔍 What I Work On
 
@@ -53,7 +53,7 @@
 - Data pipelines and reproducible workflows
 - Practical tools built with real-world data
 
----
+
 
 ## 📌 Featured Projects
 
