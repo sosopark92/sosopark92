@@ -17,6 +17,19 @@
 
 
 
+## 📌 Featured Projects
+
+### Customer Analytics and Predictive Modelling
+Developing an end-to-end customer analytics project using transactional data, behavioural features, and machine learning.
+
+### [Medical Image Segmentation](https://github.com/sosopark92/PRECISE-hand-bone-segmentation)
+Built a 29-class 3D segmentation pipeline for hand and wrist CT scans using deep learning.
+
+### Medical Speech AI
+Evaluating and fine-tuning Whisper models for medical speech recognition using synthetic and real clinical speech data.
+
+
+
 ## 🛠️ Languages and Tools
 
 ### Programming and Data
@@ -52,18 +65,3 @@
 - Applied AI research
 - Data pipelines and reproducible workflows
 - Practical tools built with real-world data
-
-
-
-## 📌 Featured Projects
-
-### Customer Analytics and Predictive Modelling
-Developing an end-to-end customer analytics project using transactional data, behavioural features, and machine learning.
-
-### Medical Image Segmentation
-Built a 29-class 3D segmentation pipeline for hand and wrist CT scans using deep learning.
-
-### Medical Speech AI
-Evaluating and fine-tuning Whisper models for medical speech recognition using synthetic and real clinical speech data.
-
----
