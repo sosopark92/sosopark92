@@ -19,7 +19,7 @@
 
 ## 📌 Featured Projects
 
-**[Abstain-DTI | PseudoLab 13th Cohort](https://github.com/Pseudo-Lab/abstain-dti/blob/main/README.en.md)**: Collaborating with a 12-member research team to investigate uncertainty-aware drug–target interaction prediction, focusing on model confidence, abstention strategies, and prediction reliability across varying levels of difficulty.
+**[Abstain-DTI | PseudoLab 13th Cohort](https://github.com/Pseudo-Lab/abstain-dti/blob/main/README.en.md)(In progress)**: Collaborating with a 12-member research team to investigate uncertainty-aware drug–target interaction prediction, focusing on model confidence, abstention strategies, and prediction reliability across varying levels of difficulty.
 
 **[Medical Image Segmentation](https://github.com/sosopark92/PRECISE-hand-bone-segmentation)**: Built a 29-class 3D segmentation pipeline for hand and wrist CT scans using nnU-net model and 3DSlicer.
 
