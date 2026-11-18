@@ -23,8 +23,6 @@
 
 **[Medical Image Segmentation](https://github.com/sosopark92/PRECISE-hand-bone-segmentation)**: Built a 29-class 3D segmentation pipeline for hand and wrist CT scans using nnU-net model and 3DSlicer.
 
-**Medical Speech AI(In progress)**: Evaluating and fine-tuning Whisper models for medical speech recognition using synthetic and real clinical speech data.
-
 **[YouTube Data Analysis](https://github.com/sosopark92/youtube-data-analysis)**: Analysed YouTube engagement, comments, and Spotify data using sentiment analysis, topic modelling, social network analysis, and predictive modelling to identify audience behaviour and content engagement patterns.
 
 
